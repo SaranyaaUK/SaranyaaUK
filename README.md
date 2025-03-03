@@ -10,7 +10,7 @@
       Databases: PostgreSQL
       Version Control: Git, Perforce
       Software Development: Agile, TDD, UI/UX, Web Accessibility
-      UX: Heuristic Evaluation, Qualitative Evaluation, Prototypig, Figma, Balsamiq.
+      UX: Heuristic Evaluation, Qualitative Analysis, Prototypig, Figma, Balsamiq.
     
 🚀 Projects & Experience:
 
