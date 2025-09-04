@@ -5,7 +5,7 @@
 
 🔧 Tech Stack & Interests:
     
-      Languages: Python, Java, JavaScript, C++, MATLAB
+      Languages: Java, JavaScript, C++, MATLAB
       Web Development: Django, React, Node.js, REST APIs
       Databases: PostgreSQL
       Version Control: Git, Perforce
