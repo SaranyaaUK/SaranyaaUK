@@ -1,0 +1,24 @@
+name: Post an inline block message
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run:
+    name: Inform on a push to the branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify Slack of push
+        uses: slackapi/slack-github-action@v2.1.1
+        with:
+          webhook: ${{ secrets.SLACK_WEBHOOK_URL }}
+          webhook-type: incoming-webhook
+          payload: |
+            text: "This is a test notification"
+            blocks:
+              - type: "section"
+                text:
+                  type: "mrkdwn"
+                  text: "TEST: New release available"
