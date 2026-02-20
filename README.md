@@ -1,5 +1,5 @@
 👋 Hi, I’m @SaranyaaUK
-💻 Software Engineer | Software Engineer @Sky UK| MSc in Information Technology | Passionate Problem Solver
+💻 Software Engineer @Sky UK| MSc in Information Technology | Passionate Problem Solver
 
 
 🔧 Tech Stack & Interests:
