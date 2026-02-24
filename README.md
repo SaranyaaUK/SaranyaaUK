@@ -4,9 +4,9 @@
 
 🔧 Tech Stack & Interests:
     
-      Languages: Java, JavaScript, C++, MATLAB
-      Web Development: Django, React, Node.js, REST APIs
-      Databases: PostgreSQL
+      Languages: Java, JavaScript, MATLAB
+      Web Development: React, Node.js, REST APIs, Django, Flask
+      Databases: PostgreSQL, MySQL
       Version Control: Git, Perforce
       Software Development: Agile, TDD, UI/UX, Web Accessibility
       UX: Heuristic Evaluation, Qualitative Analysis, Prototypig, Figma, Balsamiq.
